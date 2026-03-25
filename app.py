@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Laboratorio Elettronica", page_icon="⚡")
+st.set_page_config(page_title="Laboratorio Elettronica", layout="wide")
 
 st.title("⚡ Calcolatore Resistenze Equivalenti")
 st.write("Inserisci i valori delle resistenze per calcolare la loro combinazione.")
